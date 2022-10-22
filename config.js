@@ -51,24 +51,24 @@ global.sdc = 'https://www.instagram.com/p/CLPWKRYgkEW/?igshid=YmMyMTA2M2Y='
 global.snh = 'https://www.instagram.com/p/CLPWKRYgkEW/?igshid=YmMyMTA2M2Y='
 
 /*============== PAYMENT ==============*/
-global.pdana = '085752235008'
-global.povo = '085752235008'
-global.pgopay = '085752235008'
-global.ppulsa = '085752235008'
+global.pdana = '088804947282'
+global.povo = '088804947282'
+global.pgopay = '088804947282'
+global.ppulsa = '088804947282'
 global.ppulsa2 = '0895323263219'
 global.psaweria = 'https://saweria.com'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62895323263224'
-global.nomorown = '62895323263219'
+global.nomorbot = '62888049472824'
+global.nomorown = '6288804947282'
 global.namebot = 'Lala BOT'
-global.nameown = '乙モれ. ㉺'
+global.nameown = 'Humanz'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['62895323263219', '乙モれ. ㉺', true],//Ganti jd nomormu sama Namamu dan tanda ( ' ) jangan di hapus
-  ['6285752235008', 'འツ么れ', true] //Ganti jd nomormu sama Namamu dan tanda ( ' ) jangan di hapus
+  ['6288804947282', 'Owner', true],//Ganti jd nomormu sama Namamu dan tanda ( ' ) jangan di hapus
+  ['62888049472824', 'Bot Wahngsapp', true] //Ganti jd nomormu sama Namamu dan tanda ( ' ) jangan di hapus
   ]
 global.mods = [] // Want some help?
 global.prems = [] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
@@ -115,7 +115,7 @@ global.APIKeys = { // APIKey Here
 global.wm = '☪ Lala BotzMD'
 global.botdate = `\n© Lala BOT - ${week}, ${date}\n`//⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}, ${week}, ${date}
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `WhatsApp Bot | By 乙モれ. ㉺`
+global.titlebot = `WhatsApp Bot | By Humanz`
 global.author = '\n© Lala BotzMD'
 
 
@@ -183,7 +183,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = 'Lala Bot MD'
-global.stickauth = `By @Yanz_5008`
+global.stickauth = `By @Humanz`
 
 global.multiplier = 38 // The higher, The harder levelup
 
